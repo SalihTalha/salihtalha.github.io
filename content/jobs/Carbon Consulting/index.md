@@ -4,7 +4,7 @@ title: 'ML Engineer'
 company: 'Carbon Consulting'
 location: 'Istanbul'
 range: 'Jan 2021 - Present'
-url: 'https://www.carbonconsulting.com/'
+url: 'http://www.carbonconsulting.com/'
 ---
 
 - Worked on projects from the beginning. Prepared ~10 POC's. I have worked on them end-to-end. 
