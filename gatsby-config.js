@@ -6,7 +6,7 @@ module.exports = {
     description:
       'This website is designed and developed by Brittany Chiang, who is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
     siteUrl: 'https://salihtalha.github.io', // No trailing slash allowed!
-    image: '/logo.png', // Path to your image you placed in the 'static' folder
+    image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@bchiang7',
   },
   plugins: [
